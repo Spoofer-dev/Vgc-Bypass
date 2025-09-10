@@ -1,9 +1,15 @@
-VGC Bypass
+VGC Bypass  
+This program will be updated regularly. If you cannot access it, it may be temporarily disabled.
 
-This program will be updated continuously. If you cannot access the program, it means I have temporarily disabled it.
+It’s free to use, so please refrain from complaining.
 
-This program is free, so please don't complain when using it.
+Make sure to disable your antivirus before use.
 
-Please disable your Anti virus before using the program.
+Stay tuned for a full gameplay review video coming soon!
 
-In the future, I will make a full gameplay review video for you to watch. Stay tuned!
+This program is not a crack. 100% developed by us.
+
+How to fix:  
+1. If you see "Cmd fail to launch", try re-downloading the program.  
+2. If you encounter "API Error", make sure to download everything in the Setup file as well.  
+3. If it's still not working, wait for the next version update and try again.
